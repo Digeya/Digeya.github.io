@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.mi-di.cn/about/index.html</loc>
+    
+    <lastmod>2021-08-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/java-sec-code/2021/08/02/java-sec-code_path_traversal.html</loc>
+    
+    <lastmod>2021-08-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/%E5%86%85%E7%BD%91/2021/08/01/port-multiplexing.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/messageboard/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/link/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/tags/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/categories/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/bypass/2021/07/31/bypass_exit.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/xxxxx/index.html</loc>
+    
+    <lastmod>2021-08-01</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://blog.mi-di.cn/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://blog.mi-di.cn/tags/ctf/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/tags/%E5%86%85%E7%BD%91/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/tags/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/tags/java-sec-code/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://blog.mi-di.cn/categories/bypass/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/categories/%E5%86%85%E7%BD%91/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/categories/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mi-di.cn/categories/java%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/java-sec-code/</loc>
+    <lastmod>2021-08-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
